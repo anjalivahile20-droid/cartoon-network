@@ -1,0 +1,51 @@
+body{
+          margin:0;
+          font-family:comic sansMS;
+          background-color:skyblue;
+}
+header{
+           text-align:center;
+           padding:20px;
+}
+nav a{
+          text-decoration:none;
+          color:white;
+          margin:15px;
+          font-size:18px;
+          text-align:center;
+}
+nav a:hover{
+         text-decoration:underline;
+}
+.main{
+          padding:20px;
+          text-align:center;
+}
+.cartoon-box{
+                display:flex;
+                justify-content:center;
+                gap:20px;
+                flex-wrap:wrap;
+}
+.card{
+         background-color:yellow;
+         boder:2px solid pink;
+         border-radius:15px;
+         width:200px;
+         padding:15px;
+}
+.card h3{
+            color:red;
+}
+footer{
+             background-color:blue;
+             color:white;
+             text-align:center;
+            padding:10px;
+}
+.div{
+       border:2px solid skyblue;
+        height:500px; 
+        width:500px;
+}
+     

@@ -1,0 +1,32 @@
+.contact {
+    background-color:skyblue;
+    padding: 20px;
+    text-align: center;
+}
+.contact form {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid orange;
+}
+.contact input,
+.contact textarea {
+    width: 90%;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid pink;
+}
+.contact button {
+    background-color:blue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.contact button:hover {
+    background-color:skyblue;
+}

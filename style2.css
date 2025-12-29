@@ -1,0 +1,23 @@
+.img-row{
+     display:flex;
+    gap:200px;
+}
+.img-row{
+     width:50%;
+     height:200px;
+     border-radius:10px;
+}
+.cartoon-row {
+  display: flex;
+  gap: 20px;
+}
+
+.cartoon {
+  width: 48%;
+}
+
+.cartoon img {
+  width: 50%;
+  height: 200px;
+  border-radius: 10px;
+}
